@@ -1,0 +1,17 @@
+Level 1: Basic Array and Function Practice
+These will help solidify your understanding of arrays, functions, and control flow.
+
+(i) Implement a Stack using an Array
+Push, Pop, Peek, IsEmpty, IsFull
+
+(ii) Reverse an Array
+In-place reversal without extra space
+
+(iii) Find the Maximum Element in an Array
+Return its value and index
+
+(iv) Check if Array is Sorted
+Ascending or descending
+
+(v) Insert an Element at a Specific Position in Array
+   Handle overflow
