@@ -1,0 +1,17 @@
+ Queue Implementation Practice
+Now apply what you’ve learned to real queue problems.
+
+(i) Implement a Circular Queue
+Fixes the issue of wasted space in static queues.
+
+(ii) Queue Operations Using Two Stacks
+Use two stacks to simulate enqueue and dequeue behavior.
+
+(iii) Reverse First K Elements of a Queue
+Use an auxiliary stack
+
+(iv) Interleave the First Half of the Queue with the Second Half
+Without using extra space (use a stack)
+
+(v) Design a Deque (Double-ended Queue) using Array
+Insert/Delete from both ends
